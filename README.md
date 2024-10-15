@@ -1,1 +1,1 @@
-## Esbolço do projeto
+## Esboço do projeto
